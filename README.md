@@ -1,9 +1,8 @@
-hi this is my minecraft github
+<p align=center>
+<img src=https://file.garden/aeWHuH8drAn4J5-A/IMG_6519.jpeg>
+</p>
 
-im kinda more into the game than smps and allat but i do like Kenadian Wato1876 and Wifies
+<div align=center>
 
-ok wip
-
-[main](https://github.com/ESCAPlSM)
-
-all i like is fricking minecraft and transformers i lack a personality oh my go
+  [rentry](https://rentry.co/escapists)
+  </div>
